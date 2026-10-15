@@ -1,0 +1,480 @@
+{
+ "groups": [
+  {
+   "id": "avant",
+   "title": "Avant-propos",
+   "units": [
+    {
+     "id": "u01",
+     "title": "Introduction du traducteur",
+     "subtitle": "Ahmed Ibn Abdallah Skiredj",
+     "pages": [
+      3,
+      8
+     ],
+     "words": 3538,
+     "blocks": 83,
+     "notes": 5
+    },
+    {
+     "id": "u02",
+     "title": "Les clés du livre",
+     "subtitle": "Notions de base pour comprendre l’ouvrage",
+     "pages": [
+      9,
+      27
+     ],
+     "words": 12434,
+     "blocks": 275,
+     "notes": 7
+    },
+    {
+     "id": "u03",
+     "title": "Étude du livre",
+     "subtitle": "L’auteur, l’ijaza et les manuscrits",
+     "pages": [
+      28,
+      55
+     ],
+     "words": 15996,
+     "blocks": 436,
+     "notes": 30
+    },
+    {
+     "id": "u04",
+     "title": "Introduction de Sidi Ali Harazem Berrada",
+     "subtitle": "Présentation par l’auteur",
+     "pages": [
+      56,
+      63
+     ],
+     "words": 4974,
+     "blocks": 148,
+     "notes": 2
+    },
+    {
+     "id": "u05",
+     "title": "Introduction à Jawahir al-Maâni",
+     "subtitle": "Le soufisme et la voie des saints",
+     "pages": [
+      64,
+      74
+     ],
+     "words": 7668,
+     "blocks": 129,
+     "notes": 2
+    }
+   ]
+  },
+  {
+   "id": "c1",
+   "title": "Chapitre I — Identité du cheikh",
+   "units": [
+    {
+     "id": "u06",
+     "title": "Partie I",
+     "subtitle": "Identité, naissance, parents, famille et proches",
+     "pages": [
+      75,
+      80
+     ],
+     "words": 3230,
+     "blocks": 60,
+     "notes": 6
+    },
+    {
+     "id": "u07",
+     "title": "Partie II",
+     "subtitle": "Naissance, débuts et efforts du cheikh",
+     "pages": [
+      80,
+      87
+     ],
+     "words": 5276,
+     "blocks": 136,
+     "notes": 3
+    },
+    {
+     "id": "u08",
+     "title": "Partie III",
+     "subtitle": "Son affiliation au chemin de la raison et de la guidance",
+     "pages": [
+      88,
+      102
+     ],
+     "words": 9244,
+     "blocks": 191,
+     "notes": 27
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "Chapitre II — Illuminations spirituelles du cheikh",
+   "units": [
+    {
+     "id": "u09",
+     "title": "Partie I",
+     "subtitle": "Illuminations, états, station spirituelle et perfection",
+     "pages": [
+      103,
+      119
+     ],
+     "words": 10898,
+     "blocks": 222,
+     "notes": 11
+    },
+    {
+     "id": "u10",
+     "title": "Partie II",
+     "subtitle": "La conduite splendide du cheikh",
+     "pages": [
+      119,
+      129
+     ],
+     "words": 7420,
+     "blocks": 122,
+     "notes": 2
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "title": "Chapitre III — Le savoir du cheikh",
+   "units": [
+    {
+     "id": "u11",
+     "title": "Partie I",
+     "subtitle": "Savoir, générosité, largesse, magnanimité et fidélité",
+     "pages": [
+      130,
+      136
+     ],
+     "words": 4819,
+     "blocks": 100,
+     "notes": 2
+    },
+    {
+     "id": "u12",
+     "title": "Partie II",
+     "subtitle": "Crainte, endurance, piété, ascèse, conseil et liberté",
+     "pages": [
+      136,
+      141
+     ],
+     "words": 3837,
+     "blocks": 57,
+     "notes": 1
+    },
+    {
+     "id": "u13",
+     "title": "Partie III",
+     "subtitle": "Guidance : comportement et parole qui rassemblent autour d’Allah",
+     "pages": [
+      142,
+      152
+     ],
+     "words": 8192,
+     "blocks": 113,
+     "notes": 2
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "title": "Chapitre IV — Litanies du cheikh",
+   "units": [
+    {
+     "id": "u14",
+     "title": "Partie I",
+     "subtitle": "Organisation des litanies, sa voie tijanie et ses disciples",
+     "pages": [
+      153,
+      163
+     ],
+     "words": 6563,
+     "blocks": 181,
+     "notes": 55
+    },
+    {
+     "id": "u15",
+     "title": "Partie II",
+     "subtitle": "Mérite du wird tijani, le disciple et son état",
+     "pages": [
+      163,
+      188
+     ],
+     "words": 17367,
+     "blocks": 269,
+     "notes": 15
+    },
+    {
+     "id": "u16",
+     "title": "Partie III",
+     "subtitle": "Comment reconnaître le vrai cheikh à suivre",
+     "pages": [
+      188,
+      200
+     ],
+     "words": 7771,
+     "blocks": 124,
+     "notes": 27
+    }
+   ]
+  },
+  {
+   "id": "c5",
+   "title": "Chapitre V — Versets coraniques, hadiths et correspondances",
+   "units": [
+    {
+     "id": "u17",
+     "title": "Partie I",
+     "subtitle": "Explications de versets coraniques",
+     "pages": [
+      201,
+      297
+     ],
+     "words": 76176,
+     "blocks": 940,
+     "notes": 15
+    },
+    {
+     "id": "u18",
+     "title": "Partie II",
+     "subtitle": "Hadiths prophétiques et sciences propres au Prophète",
+     "pages": [
+      298,
+      336
+     ],
+     "words": 29748,
+     "blocks": 405,
+     "notes": 11
+    },
+    {
+     "id": "u19",
+     "title": "Partie III",
+     "subtitle": "Ses saints signes et leurs déchiffrements",
+     "pages": [
+      337,
+      427
+     ],
+     "words": 65723,
+     "blocks": 1115,
+     "notes": 64
+    },
+    {
+     "id": "u20",
+     "title": "Partie IV",
+     "subtitle": "Les correspondances du cheikh",
+     "pages": [
+      428,
+      457
+     ],
+     "words": 22211,
+     "blocks": 332,
+     "notes": 9
+    },
+    {
+     "id": "u21",
+     "title": "Partie V",
+     "subtitle": "Questions juridiques et sentences du cheikh",
+     "pages": [
+      458,
+      478
+     ],
+     "words": 15523,
+     "blocks": 227,
+     "notes": 8
+    }
+   ]
+  },
+  {
+   "id": "c6",
+   "title": "Chapitre VI — Prodiges et conduites du cheikh",
+   "units": [
+    {
+     "id": "u22",
+     "title": "Introduction",
+     "subtitle": "Prodiges et conduites courantes du cheikh",
+     "pages": [
+      479,
+      488
+     ],
+     "words": 7177,
+     "blocks": 123,
+     "notes": 6
+    },
+    {
+     "id": "u23",
+     "title": "Prière I",
+     "subtitle": "Explication de la première prière",
+     "pages": [
+      490,
+      521
+     ],
+     "words": 22799,
+     "blocks": 357,
+     "notes": 74
+    },
+    {
+     "id": "u24",
+     "title": "Prière II",
+     "subtitle": "Explication de la seconde prière",
+     "pages": [
+      522,
+      531
+     ],
+     "words": 7068,
+     "blocks": 109,
+     "notes": 22
+    },
+    {
+     "id": "u25",
+     "title": "Prière III",
+     "subtitle": "Explication de la troisième prière",
+     "pages": [
+      532,
+      543
+     ],
+     "words": 8279,
+     "blocks": 138,
+     "notes": 37
+    }
+   ]
+  },
+  {
+   "id": "fin",
+   "title": "Conclusion et traducteur",
+   "units": [
+    {
+     "id": "u26",
+     "title": "Conclusion",
+     "subtitle": "Offrir la rétribution des bonnes œuvres au Prophète",
+     "pages": [
+      544,
+      549
+     ],
+     "words": 3989,
+     "blocks": 56,
+     "notes": 0
+    },
+    {
+     "id": "u27",
+     "title": "Le traducteur",
+     "subtitle": "Ahmed Ibn Abdallah Skiredj",
+     "pages": [
+      553,
+      556
+     ],
+     "words": 1721,
+     "blocks": 66,
+     "notes": 0
+    }
+   ]
+  }
+ ],
+ "themes": [
+  {
+   "id": "dhikr",
+   "title": "Le dhikr, les litanies et le wird",
+   "description": "Invocation d’Allah, wird, wazifa, hadra : pratique, mérites et conditions.",
+   "count": 32
+  },
+  {
+   "id": "salat",
+   "title": "La prière sur le Prophète et la Salat al-Fatih",
+   "description": "La Salat al-Fatih, la Jawharat al-Kamal et les prières sur le Prophète.",
+   "count": 17
+  },
+  {
+   "id": "maitre",
+   "title": "Le maître et le disciple",
+   "description": "Éducation spirituelle, ijaza, taqdim, adab du disciple et rôle du cheikh éducateur.",
+   "count": 27
+  },
+  {
+   "id": "gnose",
+   "title": "Gnose, dévoilement et ouverture spirituelle",
+   "description": "Connaissance d’Allah (maârifa), fath, illuminations, stations et présences.",
+   "count": 46
+  },
+  {
+   "id": "prophete",
+   "title": "Le Prophète et la réalité mohammadienne",
+   "description": "La réalité mohammadienne, l’intermédiaire suprême, les visions du Prophète.",
+   "count": 34
+  },
+  {
+   "id": "prodiges",
+   "title": "Prodiges et miracles (karamât)",
+   "description": "Récits de prodiges du cheikh et de ses compagnons.",
+   "count": 18
+  },
+  {
+   "id": "visions",
+   "title": "Rêves, visions et signes",
+   "description": "Songes, visions, rencontres avec le Prophète en état d’éveil.",
+   "count": 36
+  },
+  {
+   "id": "vertus",
+   "title": "Piété, ascèse et belles qualités",
+   "description": "Générosité, patience, humilité, crainte d’Allah, renoncement, sincérité.",
+   "count": 53
+  },
+  {
+   "id": "coran",
+   "title": "Le Coran et ses versets",
+   "description": "Versets commentés, rangs des lecteurs du Coran, signes seigneuriaux.",
+   "count": 32
+  },
+  {
+   "id": "hadith",
+   "title": "Hadiths et enseignements prophétiques",
+   "description": "Hadiths cités, hadiths qodssi, sciences propres au Prophète.",
+   "count": 36
+  },
+  {
+   "id": "fiqh",
+   "title": "Jurisprudence et règles religieuses",
+   "description": "Questions juridiques, licite et illicite, purification, prière, jeûne.",
+   "count": 36
+  },
+  {
+   "id": "audela",
+   "title": "La mort, l’au-delà, le Paradis et l’Enfer",
+   "description": "Mort, tombe, jugement, Paradis, Enfer et sort des croyants.",
+   "count": 53
+  },
+  {
+   "id": "amour",
+   "title": "L’amour d’Allah et la proximité",
+   "description": "Amour divin, proximité, nostalgie, union et rapprochement du serviteur.",
+   "count": 38
+  },
+  {
+   "id": "saints",
+   "title": "Les saints, le pôle et le sceau",
+   "description": "Les gens de Dieu, le pôle caché, le sceau des saints, les califes.",
+   "count": 49
+  },
+  {
+   "id": "pardon",
+   "title": "Miséricorde, pardon et repentir",
+   "description": "Miséricorde divine, rémission des péchés, repentir et bonne opinion d’Allah.",
+   "count": 40
+  },
+  {
+   "id": "unicite",
+   "title": "L’unicité divine, les noms et les attributs",
+   "description": "Tawhid, Entité suprême, noms et attributs, rangs de l’unicité.",
+   "count": 39
+  },
+  {
+   "id": "biographie",
+   "title": "Vie du cheikh et généalogie",
+   "description": "Naissance, famille, voyages, maîtres, lieux et moments de vie de Sidi Ahmed Tijani.",
+   "count": 31
+  }
+ ]
+}
